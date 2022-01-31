@@ -15,6 +15,7 @@ Urban       2405
 
 Let's now dig into the ride share averages to understand the disparities between the 3 city types.  While Urban areas have the most rides and drivers, the average fare per ride and average fare per driver is the lowest. 
 
+
 #Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 Based on the given data, to address the disparities among the city types, I'd recommend the following:
     1. To dive deeper into the true disparities, track ride start and end times.  This will really show the profitability amongst the city types.
